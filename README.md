@@ -1,6 +1,6 @@
 # Hello hello! ☕
 I'm Karl, a future Game Developer in the Philippines.
-I have way too many ideas and passion projects but struggle to start on them. 😭
+I have way too many ideas and passion projects but struggle to start on them or are left unfinished/scrapped.
 ___
 ### ⚙️ Main Tech Stack
 |**HTML**|**CSS**|**Java**|**Python**|
