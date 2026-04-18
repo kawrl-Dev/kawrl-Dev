@@ -1,7 +1,6 @@
 # Hello hello! ☕
 I'm Karl, a future Game Developer in the Philippines.
 
-
 I have way too many ideas and passion projects but struggle to start on them or are left unfinished/scrapped.
 ___
 ### ⚙️ Main Tech Stack
@@ -14,21 +13,7 @@ ___
 3. Google Docs
 
 ### ❓About Me
-- <ins>Hobbies:</ins> playing violin, tryharding in video games, watching anime, solving a rubik's cube
-- Favorite Anime: [The Fragrant Flower Blooms with Dignity (Kaoru Hana wa Rin to Saku)](https://myanimelist.net/manga/144267/Kaoru_Hana_wa_Rin_to_Saku)
+- Hobbies: playing violin, tryharding in video games, reading manga, solving a rubik's cube
+- Favorite Manga: <ins>Kaoru Hana wa Rin to Saku</ins> by Saka Mikami
 - I need 11 hours of sleep to function normally
 ___
-<!--
-**kawrl-Dev/kawrl-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
